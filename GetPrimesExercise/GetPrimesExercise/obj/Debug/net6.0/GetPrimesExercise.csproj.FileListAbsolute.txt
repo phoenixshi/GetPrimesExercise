@@ -1,0 +1,15 @@
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\GetPrimesExercise.exe
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\GetPrimesExercise.deps.json
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\GetPrimesExercise.runtimeconfig.json
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\GetPrimesExercise.dll
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\ref\GetPrimesExercise.dll
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\bin\Debug\net6.0\GetPrimesExercise.pdb
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.csproj.AssemblyReference.cache
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.AssemblyInfoInputs.cache
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.AssemblyInfo.cs
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.csproj.CoreCompileInputs.cache
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.dll
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\ref\GetPrimesExercise.dll
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.pdb
+C:\Users\rljb\source\repos\GetPrimesExercise\GetPrimesExercise\obj\Debug\net6.0\GetPrimesExercise.genruntimeconfig.cache
